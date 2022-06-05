@@ -1,0 +1,6 @@
+name: CommandFramework
+version: '${project.version}'
+main: me.cahrypt.commandframework.CommandFramework
+api-version: 1.18
+authors: [ cahrypt ]
+description: Annotation-based command framework for plugin cores
